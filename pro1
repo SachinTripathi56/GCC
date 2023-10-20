@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main(){
+    printf("hello world");
+    int l,b,product  ;
+    printf("enter lenght");
+    scanf("%d",&l);
+    printf("enter breadth");
+    scanf(" %d",&b);
+   // printf("area of rectangle is %d",l*);
+    printf("%d",product=L*B);
+    return 0;
+
+
+}
